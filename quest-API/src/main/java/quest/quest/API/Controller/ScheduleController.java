@@ -16,7 +16,9 @@ public class ScheduleController {
 
     //기
     @PostMapping("/schedules")
-    public void scheduleAPI(@RequestBody ScheduleRequestDTO scheduleRequestDTO){
+    public String scheduleAPI(@RequestBody ScheduleRequestDTO scheduleRequestDTO){
+
+        return "";
 
 
 
