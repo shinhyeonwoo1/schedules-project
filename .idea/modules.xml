@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/quest API.iml" filepath="$PROJECT_DIR$/.idea/quest API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quest-API.main.iml" filepath="$PROJECT_DIR$/.idea/modules/quest-API.main.iml" />
     </modules>
   </component>
 </project>
